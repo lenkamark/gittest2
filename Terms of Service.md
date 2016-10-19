@@ -34,10 +34,10 @@ You are solely responsible for properly canceling your account. All of your cont
 ## Support
 1. Support for VersionPress services is only available in English, via email.
 2. Questions about the Terms of Service should be sent to support@versionpress.com.
-
+3. Be always ready to talk, help people
 ## Warranty
 
-:exclamation: this is important
+:exclamation: this is important but .....
 
 VersionPress, both in its prerelease versions and stable releases, is provided "as is" without warranty of any kind, expressed or implied. We shall not be liable for any damages, including but not limited to, direct, indirect, special, incidental or consequential damages or losses that occur out of the use or inability to use our products.
 
@@ -71,6 +71,8 @@ Company uses collected information for the following general purposes: products 
 About how we store data such as backups, etc.
 
 Company may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.
+
+to do
 
 ## Jurisdiction
 
