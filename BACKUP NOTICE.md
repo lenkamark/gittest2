@@ -10,6 +10,8 @@
 
 - hosting (backupbuddy)
 
+3. one more step
+
 
 
 
