@@ -72,6 +72,8 @@ About how we store data such as backups, etc.
 
 Company may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.
 
+to do
+
 ## Jurisdiction
 
 This agreement is governed in accordance with the laws of the Czech Republic, EU.
